@@ -1,2 +1,2 @@
-# The-app-PC
+# The-app
 Anatomy viewer
